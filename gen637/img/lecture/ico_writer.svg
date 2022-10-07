@@ -1,0 +1,19 @@
+<svg id="writer" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e49600;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="シェイプ_562" data-name="シェイプ 562" class="cls-1" d="M627,1534l48,48v-44a4,4,0,0,0-4-4H627Z" transform="translate(-627 -1534)"/>
+  <path id="シェイプ_2505" data-name="シェイプ 2505" class="cls-2" d="M654.822,1551.07v2.91h2.9l8.56-8.56-2.9-2.91Zm13.708-7.9a0.769,0.769,0,0,0,0-1.09l-1.811-1.81a0.774,0.774,0,0,0-1.091,0l-1.417,1.41,2.9,2.91Z" transform="translate(-627 -1534)"/>
+</svg>

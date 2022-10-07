@@ -1,0 +1,19 @@
+<svg id="music" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #57b17e;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="シェイプ_562" data-name="シェイプ 562" class="cls-1" d="M887,1534l48,48v-44a4,4,0,0,0-4-4H887Z" transform="translate(-887 -1534)"/>
+  <path id="シェイプ_2506" data-name="シェイプ 2506" class="cls-2" d="M921,1541v8.3a3.883,3.883,0,0,0-1.5-.3,3.036,3.036,0,1,0,3.5,3v-8h3v-3h-5Z" transform="translate(-887 -1534)"/>
+</svg>
